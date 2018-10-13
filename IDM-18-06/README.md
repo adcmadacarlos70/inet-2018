@@ -6,6 +6,7 @@
 https://github.com/stankin/inet-2018/invitations
 
 
+| Агоштинью Адау Какулу| -  | - | [Страница](https://github.com/adcmadacarlos70) | [Проект](-) | - | - |
 | Студент | Роль | Команда | Страница | Проект | Модуль 1 | Модуль 2 |
 | :---:   | :-:  |   :-:   |   :-:    |  :-:   |    :-:   |   :-:    |
 | Горюнов Антон Дмитриевич | -  | By the way to Dmitrov | [Страница](https://github.com/gerafko/) | [Проект](https://github.com/gerafko/Rails-Project) | - | - |
